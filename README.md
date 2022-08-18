@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-398%20hrs%2039%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 428 Contributions in the Year 2022
+> 🏆 430 Contributions in the Year 2022
  > 
-> 📦 70.4 kB Used in GitHub's Storage 
+> 📦 70.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,17 +44,13 @@ Sunday       53 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Blade Template           4 hrs 54 mins       ███████████████████████░░   92.05% 
-PHP                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.15% 
-JavaScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.8% 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-PhpStorm                 5 hrs 20 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      5 hrs 20 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -75,5 +71,5 @@ Java                     7 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/guillaumedeplancke/guillaumedeplancke/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/07/2022 00:35:12 UTC
+ Last Updated on 18/08/2022 00:40:07 UTC
 <!--END_SECTION:waka-->
