@@ -7,7 +7,7 @@
 
 > 🏆 430 Contributions in the Year 2022
  > 
-> 📦 70.6 kB Used in GitHub's Storage 
+> 📦 70.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,13 +44,13 @@ Sunday       53 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-PHP                      12 mins             █████████████████████████   100.0%
+PHP                      11 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-PhpStorm                 12 mins             █████████████████████████   100.0%
+PhpStorm                 11 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      12 mins             █████████████████████████   100.0%
+Mac                      11 mins             █████████████████████████   100.0%
 
 ```
 
@@ -71,5 +71,5 @@ Java                     7 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/guillaumedeplancke/guillaumedeplancke/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/09/2022 00:35:53 UTC
+ Last Updated on 04/09/2022 00:39:19 UTC
 <!--END_SECTION:waka-->
