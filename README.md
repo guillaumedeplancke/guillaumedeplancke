@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C102%20hrs%2040%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -15,6 +15,45 @@
  > 
 > 🔑 15 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    120 commits    ██████░░░░░░░░░░░░░░░░░░░   23.9% 
+🌆 Daytime    209 commits    ██████████░░░░░░░░░░░░░░░   41.63% 
+🌃 Evening    162 commits    ████████░░░░░░░░░░░░░░░░░   32.27% 
+🌙 Night      11 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.19%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       66 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.15% 
+Tuesday      84 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.73% 
+Wednesday    101 commits    █████░░░░░░░░░░░░░░░░░░░░   20.12% 
+Thursday     71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.14% 
+Friday       82 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.33% 
+Saturday     45 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.96% 
+Sunday       53 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.56%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Brussels
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in HTML** 
 
 ```text
@@ -32,5 +71,5 @@ Java                     7 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/guillaumedeplancke/guillaumedeplancke/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/09/2022 00:43:40 UTC
+ Last Updated on 06/09/2022 00:41:44 UTC
 <!--END_SECTION:waka-->
