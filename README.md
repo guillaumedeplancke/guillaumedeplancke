@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C111%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C111%20hrs%2030%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -32,5 +32,5 @@ Java                     7 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/guillaumedeplancke/guillaumedeplancke/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/09/2022 00:39:30 UTC
+ Last Updated on 15/09/2022 00:42:17 UTC
 <!--END_SECTION:waka-->
