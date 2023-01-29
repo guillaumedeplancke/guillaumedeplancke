@@ -44,15 +44,13 @@ Sunday       44 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-PHP                      12 mins             █████████████████████████   99.52% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25% 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23%
+No Activity Tracked This Week
 
 🔥 Editors: 
-PhpStorm                 13 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      13 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -73,5 +71,5 @@ Java                     7 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/guillaumedeplancke/guillaumedeplancke/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/01/2023 00:32:54 UTC
+ Last Updated on 29/01/2023 00:38:46 UTC
 <!--END_SECTION:waka-->
