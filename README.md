@@ -42,17 +42,13 @@ Sunday                   80 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Blade Template           0 secs              ███████████░░░░░░░░░░░░░░   42.17 % 
-YAML                     0 secs              ███████░░░░░░░░░░░░░░░░░░   26.25 % 
-Text                     0 secs              ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Docker                   0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-PHP                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PhpStorm                 0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -72,5 +68,5 @@ EJS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/guillaumedeplancke/guillaumedeplancke/main/assets/bar_graph.png)
 
 
- Last Updated on 06/03/2023 00:32:51 UTC
+ Last Updated on 07/03/2023 00:35:18 UTC
 <!--END_SECTION:waka-->
