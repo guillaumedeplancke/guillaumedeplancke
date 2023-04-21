@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C220%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C221%20hrs%207%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -42,14 +42,14 @@ Sunday                   1745 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-Blade Template           28 mins             █████████████████████░░░░   82.08 % 
-PHP                      6 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+PHP                      10 mins             ██████████████████░░░░░░░   71.83 % 
+Blade Template           4 mins              ███████░░░░░░░░░░░░░░░░░░   28.17 % 
 
 🔥 Editors: 
-PhpStorm                 34 mins             █████████████████████████   100.00 % 
+PhpStorm                 14 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      34 mins             █████████████████████████   100.00 % 
+Mac                      14 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -69,5 +69,5 @@ EJS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/guillaumedeplancke/guillaumedeplancke/main/assets/bar_graph.png)
 
 
- Last Updated on 20/04/2023 00:28:02 UTC
+ Last Updated on 21/04/2023 00:29:07 UTC
 <!--END_SECTION:waka-->
