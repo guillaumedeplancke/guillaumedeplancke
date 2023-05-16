@@ -42,14 +42,13 @@ Sunday                   1640 commits        ██████░░░░░�
 🕑︎ Time Zone: Europe/Brussels
 
 💬 Programming Languages: 
-JavaScript               5 mins              ███████████████░░░░░░░░░░   60.41 % 
-JSON                     3 mins              ██████████░░░░░░░░░░░░░░░   39.59 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PhpStorm                 9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -69,5 +68,5 @@ EJS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/guillaumedeplancke/guillaumedeplancke/main/assets/bar_graph.png)
 
 
- Last Updated on 15/05/2023 00:30:13 UTC
+ Last Updated on 16/05/2023 00:29:00 UTC
 <!--END_SECTION:waka-->
