@@ -7,8 +7,6 @@
 
 > 📦 71.5 kB Used in GitHub's Storage 
  > 
-> 🏆 10 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
@@ -68,5 +66,5 @@ EJS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/guillaumedeplancke/guillaumedeplancke/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2024 00:34:42 UTC
+ Last Updated on 20/08/2024 00:33:45 UTC
 <!--END_SECTION:waka-->
