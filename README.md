@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C222%20hrs%2056%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 71.7 kB Used in GitHub's Storage 
@@ -68,5 +66,5 @@ EJS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/guillaumedeplancke/guillaumedeplancke/main/assets/bar_graph.png)
 
 
- Last Updated on 22/10/2024 00:39:21 UTC
+ Last Updated on 23/10/2024 00:37:57 UTC
 <!--END_SECTION:waka-->
