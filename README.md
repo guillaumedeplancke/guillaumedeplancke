@@ -5,9 +5,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 71.8 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
+> 📦 71.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -68,5 +66,5 @@ EJS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/guillaumedeplancke/guillaumedeplancke/main/assets/bar_graph.png)
 
 
- Last Updated on 26/06/2025 00:46:30 UTC
+ Last Updated on 27/06/2025 00:46:14 UTC
 <!--END_SECTION:waka-->
