@@ -1,9 +1,13 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C222%20hrs%2056%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 71.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -64,5 +68,5 @@ EJS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/guillaumedeplancke/guillaumedeplancke/main/assets/bar_graph.png)
 
 
- Last Updated on 02/07/2025 00:45:40 UTC
+ Last Updated on 03/07/2025 00:46:21 UTC
 <!--END_SECTION:waka-->
