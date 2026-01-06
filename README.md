@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C224%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C224%20hrs-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -68,5 +68,5 @@ EJS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/guillaumedeplancke/guillaumedeplancke/main/assets/bar_graph.png)
 
 
- Last Updated on 05/01/2026 00:54:27 UTC
+ Last Updated on 06/01/2026 00:48:40 UTC
 <!--END_SECTION:waka-->
