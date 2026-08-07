@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C206%20hrs%2027%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 72.1 kB Used in GitHub's Storage 
@@ -15,48 +13,6 @@
  > 
 > 🔑 17 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1311 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-🌆 Daytime                2865 commits        ████████░░░░░░░░░░░░░░░░░   31.98 % 
-🌃 Evening                4398 commits        ████████████░░░░░░░░░░░░░   49.09 % 
-🌙 Night                  385 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   1136 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
-Tuesday                  1085 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-Wednesday                1675 commits        █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
-Thursday                 1463 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-Friday                   896 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Saturday                 639 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-Sunday                   2065 commits        ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Brussels
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in HTML** 
 
 ```text
@@ -74,5 +30,5 @@ EJS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/guillaumedeplancke/guillaumedeplancke/main/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2026 01:15:03 UTC
+ Last Updated on 07/08/2026 01:58:29 UTC
 <!--END_SECTION:waka-->
